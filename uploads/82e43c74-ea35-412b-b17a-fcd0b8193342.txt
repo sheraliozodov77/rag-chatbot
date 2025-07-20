@@ -1,0 +1,15 @@
+langchain
+langgraph
+openai
+pinecone-client
+firecrawl
+python-dotenv
+beautifulsoup4
+unstructured
+PyMuPDF
+tiktoken
+sentence-transformers
+transformers
+accelerate
+bitsandbytes
+uuid

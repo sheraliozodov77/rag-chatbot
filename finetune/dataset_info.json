@@ -1,0 +1,11 @@
+{
+    "uzbek_data": {
+      "file_name": "data/fine_tune_instructions.jsonl",
+      "formatting": "alpaca",
+      "columns": {
+        "prompt": "instruction",
+        "query": "input",
+        "response": "output"
+      }
+    }
+  }  
